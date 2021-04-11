@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.h1 {
+  padding: 50px;
+  display: block;
+  float: none;
+  text-align: center;
+  text-transform: uppercase;
+  color: #21bf73;
+}
+
+.container {
+  padding: 20px;
+}
+
+#error {
+  color: orangered;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
